@@ -15,3 +15,15 @@ between consecutive numbers are big which is case for random selection. On the o
 side, perlin noise creates a smooth more natural number pattern because each number
 has dependency between previous ones, this is very helpful for generating the flow field
 making particles to move in a meaningful way.
+
+
+## Artwork Exhibit
+
+### Example 1
+![Photo 1](link-to-your-image-1.jpeg)
+
+### Example 2
+![Photo 2](link-to-your-image-2.jpeg)
+
+### Example 3
+![Photo 3](link-to-your-image-3.jpeg)
